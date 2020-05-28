@@ -1,5 +1,5 @@
 {
-    "name": "vinelab/neoeloquent",
+    "name": "idevin/neoeloquent",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": ["neo4j", "ogm", "graph", "database", "neoeloquent"],
     "license": "MIT",
